@@ -17,6 +17,8 @@
 
 ● [Recommendations](#recommendations)
 
+● [Dashboard Preview](#dashboard-preview)
+
 ● [Dashboard](#dashboard)
 
 ● [Limitations](#limitations)
