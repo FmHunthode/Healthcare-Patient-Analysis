@@ -103,7 +103,7 @@ Age groups, Length of hospital stay, Risk indicators, Blood pressure categories
 ● Investigate cost variability and standardize treatment processes
 
 ### Dashboard Preview
-![Dashboard Preview](images/patients-analytics-dashboard.png)
+![Dashboard Preview](https://github.com/FmHunthode/Healthcare-Patient-Analysis/blob/1ce4316f32eb745e7120028409f1afebe48e99e0/patients%20analytics%20dashboard.png)
 
 ### Dashboard
 The dashboard highlights:
